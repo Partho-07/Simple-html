@@ -1,0 +1,10 @@
+h1{text-align:center;}
+.mydiv{
+  height:80px;
+background-color:gray;
+border:2px solid black;
+border-radius:25px;
+margin-top:50px;
+margin-left:40px;
+margin-right:40px;
+}
